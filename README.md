@@ -137,7 +137,7 @@ The notebook also displays:
 - The notebook demonstrates alternative imputation and outlier-treatment methods; the final pipeline specifically uses mode imputation, iterative imputation, and 1st–99th percentile capping.
 - `disease_risk` is treated as a numeric field during iterative imputation and converted to an integer afterward. For a production machine-learning workflow, review this choice and validate the resulting target labels.
 - This is a data-preprocessing exercise, not a clinical diagnostic tool.
-
+## Presentation video -  https://drive.google.com/file/d/1z-XQvNe14KRNBs6gvyWS_tpZ2u0nUck6/view?usp=sharing
 ## Author
 PRAJAPATI BHARGAV
 
